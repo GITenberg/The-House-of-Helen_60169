@@ -1,5 +1,8 @@
 _repo: The-House-of-Helen_60169
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60169-h/images/cover.jpg
 creator:
   author:
     agent_name: Harris, Corra
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25937
     wikipedia: http://en.wikipedia.org/wiki/Corra_May_Harris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60169#The-House-of-Helen
 gutenberg_issued: '2019-08-25'
 gutenberg_type: Text
 identifiers:
